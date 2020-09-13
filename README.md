@@ -13,7 +13,7 @@ pytest -v
 ## Functions in `session8.py`.
 
 
-The function definitions are as follows: 
+ The function definitions are as follows: 
 
 ### func_check_docs(fn: "function") -> "Boolean"
 

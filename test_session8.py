@@ -5,9 +5,13 @@ import inspect
 import session8
 
 README_CONTENT_CHECK_FOR = [
-    "fibonacci",
-    "is_fibonacci",
-    "custom_number_plate",
+    "func_check_docs",
+    "func_next_fib",
+    "func_add",
+    "func_mul",
+    "func_div",
+    "func_counter",
+    "func_counter_user",
 ]
 
 
