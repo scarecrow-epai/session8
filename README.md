@@ -3,7 +3,6 @@
 This is the readme for session-8.
 This file contains information for functions present in `session8.py` and `test_session8.py`.
 
-
 ## Run Tests 
 
 ```
@@ -60,12 +59,12 @@ The test definitions are as follows:
 ### test_readme_exists()
 
 
-    Test funtion to check if README exists.                                                                                                                                  
+    Test funtion to check if README exists.
 
 ### test_readme_contents()
 
 
-    Test if README contains atleast 200 words.                                                                                                                               
+    Test if README contains atleast 200 words.
 
 ### test_readme_proper_description()
 
